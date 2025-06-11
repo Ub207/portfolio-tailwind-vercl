@@ -8,7 +8,7 @@ const data = [
       id: 1,
       title: "Static Resume",
       desc: "A simple static resume built using pure HTML and CSS, showcasing personal information, education, and experience.",
-      img: "/static-resume.png",
+      img: "/Staticresume.png",
       tags: ["HTML", "CSS"]
     },
     {
