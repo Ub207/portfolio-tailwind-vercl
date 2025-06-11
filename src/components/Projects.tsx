@@ -68,6 +68,10 @@ const Projects = () => {
       </div>
     </div>
   )
+  // Minor change to trigger Vercel redeploy
 }
 
-export default Projects
+export default Projects  
+
+// Minor change to trigger Vercel redeploy
+
