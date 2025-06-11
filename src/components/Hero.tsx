@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <div
       id="hero"
-      className="min-h-screen bg-no-repeat bg-[url('/profile-picture.jpeg')] 
+      className="min-h-screen bg-no-repeat bg-[url('/profile-picture.jpg')] 
 
 
  bg-cover"

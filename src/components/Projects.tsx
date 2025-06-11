@@ -24,7 +24,30 @@ const data = [
       desc: "An interactive and dynamic resume built with TypeScript, HTML, and CSS, allowing for real-time updates and customization.",
       img: "/Editableresume.png",
       tags: ["TypeScript", "HTML", "CSS"]
-    }
+    },
+    
+      {
+        id: 4,
+        title: "World Watches Website",
+        desc: "Multipage website using React components including Home, About, Contact, and Watches pages.",
+        img: "/multipge website.png",
+        tags: ["HTML", "Node", "TailwindCSS", "TypeScript"]
+      },
+      {
+        id: 5,
+        title: "Dynamic and Functional Ecommerce Website in Next.js",
+        desc: "An HTML, TypeScript, and Tailwind CSS based ecommerce website with payment method integration.",
+        img: "/dynamic website.png",
+        tags: ["HTML", "Node", "CSS", "TypeScript"]
+      },
+      {
+        id: 6,
+        title: "Sharable Resume",
+        desc: "A TypeScript-based sharable resume built with HTML and CSS, allowing users to dynamically showcase their skills.",
+        img: "/sherable-resume.png",
+        tags: ["HTML", "Node", "CSS", "TypeScript"]
+      }
+    
   ];
   
 
